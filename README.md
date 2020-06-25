@@ -1,6 +1,6 @@
 # Android_MVVM_Hilt_RX
 
-Hilt + RxJava + Retrofit + ViewModel + LiveData
+************************Hilt + RxJava + Retrofit + ViewModel + LiveData
 
 
-this project uses the api and view from https://www.androidhive.info/
+******this project uses the api and list view design  from https://www.androidhive.info/
