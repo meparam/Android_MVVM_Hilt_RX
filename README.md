@@ -2,6 +2,7 @@
 
 Feature: 
 
+MVVM <br>
 Hilt <br>
 RxJava <br>
 Retrofit <br>
