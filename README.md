@@ -2,7 +2,7 @@
 
 Feature: 
 
-**Hilt <br>
+Hilt <br>
 RxJava <br>
 Retrofit <br>
 ViewModel <br>
