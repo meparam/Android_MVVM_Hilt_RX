@@ -3,11 +3,11 @@
 Feature: 
 
 **Hilt <br>
-RxJava
-Retrofit
-ViewModel
-LiveData
-Swipe to delete
+RxJava <br>
+Retrofit <br>
+ViewModel <br>
+LiveData <br>
+Swipe to delete <br>
 Recycle view
 
 
